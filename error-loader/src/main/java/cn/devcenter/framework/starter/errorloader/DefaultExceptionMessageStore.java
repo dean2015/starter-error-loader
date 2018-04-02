@@ -10,11 +10,9 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * @name: DefaultExceptionMessageStore
- * @description:
- * 
+ *
  * @version 1.0
- * @author dean
+ * @author gaosong
  *
  */
 @Slf4j

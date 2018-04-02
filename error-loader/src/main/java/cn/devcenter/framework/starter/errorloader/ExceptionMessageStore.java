@@ -20,7 +20,7 @@ package cn.devcenter.framework.starter.errorloader;
  * @description: 
  * 
  * @version 1.0
- * @author dean
+ * @author gaosong
  *
  */
 public interface ExceptionMessageStore {

@@ -10,7 +10,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 @ConfigurationProperties(prefix = ErrorConfigProperties.PREFIX)
 public class ErrorConfigProperties {
 
-    public static final String PREFIX = "dlfc.error.config";
+    public static final String PREFIX = "errorloader.config";
 
     private String file = "classpath*:ValidationMessages.properties";
 
