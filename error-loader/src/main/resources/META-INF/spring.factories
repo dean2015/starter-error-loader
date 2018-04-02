@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.housecenter.dlfc.framework.exception.errorloader.config.property.ErrorConfigProperties,\
+  cn.housecenter.dlfc.framework.exception.errorloader.config.ErrorMessageConfig
