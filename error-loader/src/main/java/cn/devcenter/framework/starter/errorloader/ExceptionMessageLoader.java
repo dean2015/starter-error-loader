@@ -1,6 +1,7 @@
 package cn.devcenter.framework.starter.errorloader;
 
 import cn.devcenter.framework.starter.errorloader.config.property.ErrorConfigProperties;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 
