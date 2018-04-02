@@ -1,2 +1,2 @@
-# service-error-loader
+# starter-error-loader
 ### Update later.
